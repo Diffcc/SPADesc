@@ -26,3 +26,4 @@ jupyter-notebook
 
 run HPatches-Sequences-Matching-Benchmark.ipynb
 ```
+![image](https://github.com/user-attachments/assets/10a021d0-4986-4e5d-bb30-96e7b0af0041)
