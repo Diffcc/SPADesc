@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 # Data Preparation
-We use some data from MegaDepth for training, which can refer to the dataset settings in [AWDesc](https://github.com/vignywang/AWDesc/tree/main)
+We use MegaDepth for training, please refer to the dataset settings in [AWDesc](https://github.com/vignywang/AWDesc/tree/main) for details. 
 
 # Training
 Training code for SPADesc will be provided in a future release. 
